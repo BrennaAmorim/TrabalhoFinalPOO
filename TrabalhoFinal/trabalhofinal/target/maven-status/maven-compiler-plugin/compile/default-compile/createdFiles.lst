@@ -1,0 +1,16 @@
+utils\FileUtils.class
+pedido\controller\PedidoController.class
+pedido\repository\PedidoRepository.class
+cliente\repository\PagamentoRepository.class
+cliente\controller\PagamentoController.class
+cliente\model\Cliente.class
+configuration\DatabaseConfiguration.class
+cliente\model\ClientePessoaFisica.class
+pedido\model\Produto.class
+cliente\controller\ClienteController.class
+cliente\model\Pagamento.class
+cliente\repository\ClienteRepository.class
+cliente\model\ClientePessoaJuridica.class
+pedido\model\Item.class
+pedido\model\Pedido.class
+api\Main.class
